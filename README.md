@@ -1,4 +1,4 @@
-# ABI M — Portfolio v2
+# ABI M — Portfolio 
 
 A responsive portfolio inspired by the reference layout shared by Abi.
 
